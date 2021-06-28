@@ -1,3 +1,3 @@
 # README
 
-This is a test of some sample licenses!
+This is a test of some sample licenses.
